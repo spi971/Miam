@@ -1,8 +1,9 @@
-import { View, StatusBar } from "react-native";
+import { View } from "react-native";
+import { StatusBar } from "expo-status-bar";
 import React from "react";
 
-import WelcomeText from "../components/WelcomeText";
-import Logo from "../components/Logo";
+import WelcomeText from "../components/welcomeScreenComponents/WelcomeText";
+import Logo from "../components/welcomeScreenComponents/Logo";
 
 export default function WelcomeScreen() {
   return (

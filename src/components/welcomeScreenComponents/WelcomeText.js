@@ -18,7 +18,7 @@ export default function WelcomeText() {
         className="font-medium text-white tracking-widest"
         style={{ fontSize: hp(2) }}
       >
-        L'art de créer du bonheur!
+        Add a Little Love!
       </Text>
     </View>
   );

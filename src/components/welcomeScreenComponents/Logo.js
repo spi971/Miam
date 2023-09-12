@@ -6,7 +6,7 @@ import {
 } from "react-native-responsive-screen";
 import Animated, { useSharedValue, withSpring } from "react-native-reanimated";
 
-import welcome from "../../assets/images/welcome.png";
+import welcome from "../../../assets/images/welcome.png";
 import { useNavigation } from "@react-navigation/native";
 
 export default function Logo() {
